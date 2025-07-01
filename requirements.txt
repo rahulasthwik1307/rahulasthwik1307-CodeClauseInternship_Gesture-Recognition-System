@@ -1,0 +1,26 @@
+# Hand Gesture Recognition Project Dependencies
+
+# Computer Vision & Hand Tracking
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+
+# GUI Framework
+tkinter-tooltip==2.1.0
+Pillow==10.0.1
+
+# System Control
+pyautogui==0.9.54
+pynput==1.7.6
+screen-brightness-control==0.21.0
+
+# Voice Feedback
+pyttsx3==2.90
+
+# Audio Control (Windows)
+pycaw==20220416
+
+# Additional utilities
+math
+time
+threading
